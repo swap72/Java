@@ -7,7 +7,7 @@
 * [Indentation and Whitespace](https://cscie22.sites.fas.harvard.edu/problem_sets/coding_standards.html#indentation-and-whitespace)
 * [Comments](https://cscie22.sites.fas.harvard.edu/problem_sets/coding_standards.html#comments)
 * [Miscellaneous](https://cscie22.sites.fas.harvard.edu/problem_sets/coding_standards.html#miscellaneous)
-	+ [Keep Line Lengths Under 80 characters](https://cscie22.sites.fas.harvard.edu/problem_sets/coding_standards.html#keep-line-lengths-under-80-characters)
++ [Keep Line Lengths Under 80 characters](https://cscie22.sites.fas.harvard.edu/problem_sets/coding_standards.html#keep-line-lengths-under-80-characters)
 
 
 
