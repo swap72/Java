@@ -25,3 +25,26 @@ Collections Framework
     ├── Hashtable
     └── SortedMap (Interface)
         └── TreeMap
+
+
+
+                           Collection (interface)
+                                /       |       \
+                               /        |        \
+                              /         |         \
+                             /          |          \
+                  List (I)         Set (I)        Queue (I)
+                   /   \            /   \            |
+                  /     \          /     \           |
+       ArrayList (C)  LinkedList(C) HashSet(C)    PriorityQueue(C)
+                                |        |
+                            Vector (C)  LinkedHashSet(C)
+                                |
+                            Stack (C)
+
+                      Map (I)
+                       /   \
+                      /     \
+               HashMap(C)  TreeMap(C)
+                  |
+              LinkedHashMap(C)
