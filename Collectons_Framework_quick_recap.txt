@@ -1,0 +1,27 @@
+Collections Framework
+├── Collection (Interface)
+│   ├── List (Interface)
+│   │   ├── ArrayList
+│   │   ├── LinkedList
+│   │   └── Vector
+│   │       └── Stack
+│   ├── Set (Interface)
+│   │   ├── HashSet
+│   │   ├── LinkedHashSet
+│   │   └── SortedSet (Interface)
+│   │       └── TreeSet
+│   └── Queue (Interface)
+│       ├── Deque (Interface)
+│       │   ├── ArrayDeque
+│       │   └── LinkedList
+│       ├── PriorityQueue
+│       └── BlockingQueue (Interface) [Concurrent]
+│           ├── LinkedBlockingQueue
+│           ├── ArrayBlockingQueue
+│           └── PriorityBlockingQueue
+└── Map (Interface)
+    ├── HashMap
+    ├── LinkedHashMap
+    ├── Hashtable
+    └── SortedMap (Interface)
+        └── TreeMap
